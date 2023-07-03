@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Jason
 
 - 🌱 I’m currently learning Full-stack development, using NodeJS as the backend.
+  
 - 🚀 I currently have beginner-level experience with front-end developing (HTML, CSS and JavaScript).
 
 <br>
