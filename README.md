@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![jasong-dev's Stats](https://github-readme-stats.vercel.app/api?username=jasong-dev&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![jasong-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasong-dev&theme=dark&hide_border=true)
+![jasong-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasong-dev&theme=dark&show_icons=true&hide_border=true&layout=compact)
