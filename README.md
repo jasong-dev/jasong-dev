@@ -1,19 +1,10 @@
-### Hi there 👋
+# Hi there 👋 I'm Jason
 
-<!--
-**jasong-dev/jasong-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Full-stack development, using NodeJS as the backend.
+- 🚀 I currently have beginner-level experience with front-end developing (HTML, CSS and JavaScript).
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![jasong-dev's Stats](https://github-readme-stats.vercel.app/api?username=jasong-dev&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![jasong-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasong-dev&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jasong-dev&theme=dark&show_icons=true&hide_border=false&count_private=true"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasong-dev&theme=dark&hide_border=false"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasong-dev&theme=dark&show_icons=true&hide_border=false&layout=compact"></p>
