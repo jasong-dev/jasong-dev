@@ -3,6 +3,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasong-dev&theme=dark&show_icons=true&hide_border=false&layout=compact"></p>
 
 # Working on:
-- 🖌️ <b>etch-a-sketch:</b> an online minigame made with HTML, CSS and JavaScript inspired by the classic toy.
+- 🖌️ [<b>etch-a-sketch:</b>](https://github.com/jasong-dev/etch-a-sketch) an online minigame made with HTML, CSS and JavaScript inspired by the classic toy.
   
-- 🔐 <b>py-encrypter:</b> a python app that makes encrypting files easy.
+- 🔐 [<b>py-encrypter:</b>](https://github.com/jasong-dev/py-encrypter) a python app that makes encrypting files easy.
