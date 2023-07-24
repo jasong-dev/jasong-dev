@@ -1,8 +1,6 @@
 # Hello 👋 I am Jason
 
 ## Working on:
-- 🖌️ [<b>etch-a-sketch:</b>](https://github.com/nrgnoobhi/etch-a-sketch) an online minigame made with HTML, CSS and JavaScript inspired by the classic toy.
-  
 - 🔐 [<b>py-encrypter:</b>](https://github.com/nrgnoobhi/py-encrypter) a python app that makes encrypting files easy.
 
 - 🖱️ [<b>invisible-mouse:</b>](https://github.com/nrgnoobhi/invisible-mouse) invsible mouse that uses your hand to move the cursor.
