@@ -1,8 +1,6 @@
 # Hello 👋 I am Jason
 
 ## Working on:
-- 🔐 [<b>py-encrypter:</b>](https://github.com/nrgnoobhi/py-encrypter) a python app that makes encrypting files easy.
-
 - 🖱️ [<b>invisible-mouse:</b>](https://github.com/nrgnoobhi/invisible-mouse) invsible mouse that uses your hand to move the cursor.
 
 <h3 align="left">Languages and Tools:</h3>
